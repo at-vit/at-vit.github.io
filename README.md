@@ -1,2 +1,4 @@
-# at-vit.github.io
-AT-ViT CVPR'22 webpage
+# AT-ViT Website
+
+Website for AT-ViT CVPR'22 paper. 
+
